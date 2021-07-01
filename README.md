@@ -1,1 +1,1 @@
-# summer_inter_project
+# summer_intern_project
